@@ -1,9 +1,22 @@
-## Hi there freinds 👋
+## Hi there 👋 I'm Hala
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
+```diff
+-int academic year = 1;
++academic year=2
+```
+
+
+![Korean Illustration (3)](https://github.com/Hala-Fawzi-AlQassrawi/Hala-Fawzi-AlQassrawi/assets/172307153/364092c4-fd93-4684-bb15-b8385e9fc9b9)
+
+
+Here are some ideas to get you started:
 <!--
 **Hala-Fawzi-AlQassrawi/Hala-Fawzi-AlQassrawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
