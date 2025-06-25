@@ -2,8 +2,8 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 ```diff
--int academicYear = 1;
-+academicYear=2
+-int academicYear = 2;
++academicYear=1
 ```
 
 
